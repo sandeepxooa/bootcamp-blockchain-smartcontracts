@@ -1,0 +1,9 @@
+Apps:
+  Supply_Chain_Truffle_Contract:
+    Name: Supply_Chain_Truffle_Contract
+    Description: Solidity Smart Contract using Truffle framework
+    path: /Lab4(SupplyChainLog)/Solidity
+    mainSolFile: SupplyChainLogContract
+    language: solidity
+    truffle: true
+    README: https://github.com/sagarxooa/truffle3-frontend-example/blob/master/README.md
