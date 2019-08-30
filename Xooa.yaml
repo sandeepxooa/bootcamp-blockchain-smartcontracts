@@ -2,7 +2,7 @@ Apps:
   Supply_Chain_Truffle_Contract:
     Name: Supply_Chain_Truffle_Contract
     Description: Solidity Smart Contract using Truffle framework
-    path: /Lab4\(SupplyChainLog\)/Solidity
+    path: /Lab4(SupplyChainLog)/Solidity
     mainSolFile: SupplyChainLogContract
     language: solidity
     truffle: true
